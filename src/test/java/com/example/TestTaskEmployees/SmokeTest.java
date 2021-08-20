@@ -1,4 +1,4 @@
-package com.example.Restfull;
+package com.example.TestTaskEmployees;
 
 import com.example.TestTaskEmployees.controller.EmployeeController;
 import org.junit.jupiter.api.Test;
