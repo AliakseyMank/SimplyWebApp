@@ -1,6 +1,6 @@
 package com.example.Restfull;
 
-import com.example.Restfull.controller.EmployeeController;
+import com.example.TestTaskEmployees.controller.EmployeeController;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;

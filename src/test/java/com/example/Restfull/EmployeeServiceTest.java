@@ -1,17 +1,15 @@
 package com.example.Restfull;
 
-import com.example.Restfull.entity.Employee;
-import com.example.Restfull.entity.Gender;
-import com.example.Restfull.service.EmployeeService;
+import com.example.TestTaskEmployees.entity.Employee;
+import com.example.TestTaskEmployees.entity.Gender;
+import com.example.TestTaskEmployees.service.EmployeeService;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 
 
-import java.time.Instant;
 import java.util.Date;
 
-import static java.util.Date.parse;
 import static org.hamcrest.CoreMatchers.is;
 import static org.hamcrest.MatcherAssert.*;
 

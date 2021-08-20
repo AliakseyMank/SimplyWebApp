@@ -1,7 +1,7 @@
-package com.example.Restfull.service;
+package com.example.TestTaskEmployees.service;
 
-import com.example.Restfull.dao.EmployeeDao;
-import com.example.Restfull.entity.Employee;
+import com.example.TestTaskEmployees.dao.EmployeeDao;
+import com.example.TestTaskEmployees.entity.Employee;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

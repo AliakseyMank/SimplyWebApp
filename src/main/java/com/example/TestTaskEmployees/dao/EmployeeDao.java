@@ -1,7 +1,7 @@
-package com.example.Restfull.dao;
+package com.example.TestTaskEmployees.dao;
 
-import com.example.Restfull.entity.Employee;
-import com.example.Restfull.entity.Gender;
+import com.example.TestTaskEmployees.entity.Employee;
+import com.example.TestTaskEmployees.entity.Gender;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Repository;

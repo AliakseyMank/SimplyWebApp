@@ -1,7 +1,7 @@
-package com.example.Restfull.controller;
+package com.example.TestTaskEmployees.controller;
 
-import com.example.Restfull.entity.Employee;
-import com.example.Restfull.service.EmployeeService;
+import com.example.TestTaskEmployees.entity.Employee;
+import com.example.TestTaskEmployees.service.EmployeeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

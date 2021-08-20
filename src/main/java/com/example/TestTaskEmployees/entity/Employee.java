@@ -1,4 +1,4 @@
-package com.example.Restfull.entity;
+package com.example.TestTaskEmployees.entity;
 
 import lombok.*;
 
